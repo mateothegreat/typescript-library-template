@@ -1,6 +1,6 @@
 # @mateothegreat/typescript-library-template
 
-TypeScript library template ready to hack, compile, and distribute!
+🐣 TypeScript library template ready to hack, compile, and distribute!
 
 ## License
 
